@@ -1,0 +1,157 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Tahoma, sans-serif;
+}
+
+.section-standard {
+    padding: 30px 0;
+    text-align: center;
+}
+
+.p-standard {
+    margin: 10 auto;
+}
+
+.p-standard-justify {
+    text-align: justify;
+    width: 980px;
+    margin: 0 auto;
+}
+
+.p-servicos {
+    font-size: 18px;
+    line-height: 28px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.wrapper {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+#header {
+    background-color: #afddfb;
+}
+
+.logo-imobiliaria {
+    width: 150px;
+}
+
+.p-menu {
+    margin-top: 15px;
+    margin-bottom: 25px;
+    text-align: center;
+}
+
+.p-menu a {
+    font-size: 18px;
+    text-decoration: none;
+    color: #1d1d1d;
+    border-bottom: 2px solid #1d1d1d;
+    margin: 0 10px;
+}
+
+.section-banner {
+    margin-top: 50px;
+    padding-top: 0;
+}
+
+.negrito {
+    font-weight: bold;
+}
+
+.title-secao-encontre {
+    color: #1d1d1d;
+    font-size: 28px;
+    margin-bottom: 5px;
+}
+
+.subtitle-secao-encontre {
+    color: #1c81c0;
+    font-size: 20px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.img-secao {
+    width: 450px;
+    margin-bottom: 20px;
+}
+
+.blue-text {
+    color: #1d80c1;
+}
+
+.blue-bg {
+    background-color: #1d80c1;
+}
+
+.title-secao {
+    font-size: 28px;
+    margin-bottom: 20px;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.white-text {
+    color: #fff;
+}
+
+.p-servicos {
+    line-height: 42px;
+    color: #fff;
+    font-size: 22px;
+    text-align: center;
+    width: 700px;
+    margin: 0 auto;
+}
+
+.yellow-text {
+    color: #fff81b;
+}
+
+.lista-servicos {
+    margin: 40px auto;
+    width: 135px;
+}
+
+.lista-servicos li {
+    color: #fff;
+    line-height: 42px;
+    text-align: left;
+    font-size: 22px;
+}
+
+.mensagem-contato {
+    background-color: #1d1d1d;
+    color: #ffffff;
+    padding: 15px;
+    width: 960px;
+    margin: 30px auto;
+}
+
+.lista-escritorios {
+    margin: 40px auto;
+    width: 210px;
+    list-style: none;
+}
+
+.lista-escritorios li {
+    margin-top: 15px;
+    text-align: center;
+    font-size: 18px;
+}
+
+.lista-escritorios li a {
+    background-color: #ffffff;
+    color: #1d80c1;
+    padding: 2px 5px;
+    border-radius: 5px;
+}
